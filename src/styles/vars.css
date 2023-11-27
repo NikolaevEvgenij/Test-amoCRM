@@ -1,0 +1,16 @@
+:root {
+   --black: #0e1014;
+   --light-text: #e4e5ea;
+   --light-text-primary: #e4e5ea;
+   --gradient: linear-gradient(
+      90deg,
+      #fcb045 36.99%,
+      #fd1d1d 100%
+   );
+   --primary-gradient: linear-gradient(
+      90deg #fcb045,
+      #ff3f78
+   );
+   --dark-gray: #656566;
+   --button-background: #4077f3;
+}
