@@ -6,4 +6,7 @@
 body {
    font-family: "Inter", sans-serif;
    background: var(--black);
+   width: 1140px;
+   margin: 0 auto;
+   padding: 0 10px 0 10px;
 }
